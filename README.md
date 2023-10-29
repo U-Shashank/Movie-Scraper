@@ -14,8 +14,8 @@ Before running the script, make sure you have the following:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/movies-scraper.git
-   cd movie-scraper
+   git clone https://github.com/U-Shashank/Movie-Scraper.git
+   cd Movie-Scraper
    ```
 2. Create a MySQL database and update  the config.json file with your database credentials.
 
