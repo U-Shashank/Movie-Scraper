@@ -20,9 +20,9 @@ Before running the script, make sure you have the following:
 2. Create a MySQL database and update  the config.json file with your database credentials.
 
 3. Install the required Python packages:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 4. Start your mysql server and run the main.py
 
 5. If you want to see the content of the sql table after execution uncomment line number 66-71 before running main.py
